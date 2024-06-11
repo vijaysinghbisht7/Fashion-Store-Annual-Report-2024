@@ -1,4 +1,4 @@
-# 🚀 Fashion Forward: 2024 Sales Insights and 2025 Growth Strategy 🚀
+# 🚀Fashion Forward: 2024 Sales Insights and 2025 Growth Strategy🚀
 
 ## Overview
 Welcome to the repository for the Fashion Store Annual Report 2024! This project involved a comprehensive analysis of over 31,000 order details to generate insights that will help drive sales and growth for the fashion store in 2025.
